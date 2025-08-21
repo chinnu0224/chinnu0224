@@ -21,11 +21,19 @@ Here are some ideas to get you started:
 🎯 Currently learning: **Network Security, Incident Response & Linux Administration**  
 🌱 Open to: Entry-level roles in **IT Support | Cybersecurity | Network Security**  
 
-### 🛠️ Tech Stack & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack & Tools  
+
+**Core Skills**  
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Linux Administration](https://img.shields.io/badge/Linux%20Administration-000000?style=for-the-badge&logo=linux&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)  
+
+**Specializations**  
+![IT Support](https://img.shields.io/badge/IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
 
 ### 📊 GitHub Stats
 ![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinnu0224&show_icons=true&theme=radical)
