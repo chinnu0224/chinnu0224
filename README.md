@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋 I'm Sunil  
+
+🚀 Passionate about **Cybersecurity, DevOps, and Cloud Technologies**  
+🎯 Currently learning: **Network Security, Incident Response & Linux Administration**  
+🌱 Open to: Entry-level roles in **IT Support | Cybersecurity | Network Security**  
