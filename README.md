@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack & Tools  
 
 **Core Skills**  
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white) 
 ![Linux Administration](https://img.shields.io/badge/Linux%20Administration-000000?style=for-the-badge&logo=linux&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -34,10 +33,6 @@ Here are some ideas to get you started:
 **Specializations**  
 ![IT Support](https://img.shields.io/badge/IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white)  
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=ai&logoColor=white)  
-
-### 📊 GitHub Stats
-![Sunil's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinnu0224&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinnu0224&layout=compact&theme=radical)
 
 ### 🚀 Featured Projects
 - 🔐 [Cybersecurity CTF Challenge](https://github.com/chinnu0224/cyber-ctf) – Hands-on capture-the-flag challenges for beginners.
